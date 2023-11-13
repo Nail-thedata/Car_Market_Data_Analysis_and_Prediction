@@ -1,7 +1,6 @@
 # MyProjects
 Data Science / Analysis Projects
 
-
 Nail Senbas - Car Price Data Analysis and Price Prediction Model
 
 - Exploratory Data Analysis (EDA)
