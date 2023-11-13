@@ -1,4 +1,4 @@
-# MyProjects
+# Project Content
 Data Science / Analysis Projects
 
 Nail Senbas - Car Price Data Analysis and Price Prediction Model
